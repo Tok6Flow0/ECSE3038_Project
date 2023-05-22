@@ -1,9 +1,6 @@
-embedded/.vscode
-api/pycache
-embedded/.vscode/.browse.c_cpp.db*
-embedded/include/env.h
-embedded/.pio
-api/nilevenv
-embedded/.vscode/c_cpp_properties.json
 venv
-embedded/.vscode/launch.json
+.pio
+.vscode
+embedded/.vscode
+env.h
+__pycache__
