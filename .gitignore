@@ -6,7 +6,4 @@ embedded/.pio
 api/nilevenv
 embedded/.vscode/c_cpp_properties.json
 venv
-api/venv
-api/.env
 embedded/.vscode/launch.json
-embedded/.vscode/ipch
